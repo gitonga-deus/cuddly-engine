@@ -1,3 +1,3 @@
-## MDX Blog with Contentlayer and Next.js
+### MDX Blog with Contentlayer and Next.js
 
 Stay Awesome
